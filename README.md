@@ -57,7 +57,7 @@ From your computer you can open server manager, install Active Directory and tur
 <img src="https://i.imgur.com/C1mrKzP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We can create bunch of additional users which as administrators can assign them with or without limit of file's access in the company or for own safety, and with this a lead administrator have capability to delete someone's account or reset password.and to have this access wehave to set the computer to a domain control in DNS to be able to work
 </p>
 <br />
 
@@ -65,6 +65,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/RGSRbZv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As administrator you will be allow and access any account indeed fix if something going on or he cannot connect.
 </p>
 <br />
