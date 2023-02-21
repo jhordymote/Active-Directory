@@ -41,7 +41,7 @@ Create Ressource and both virtual machine which all the steps are in the first l
 <img src="https://i.imgur.com/DgUL1rk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After login in the client computer, from the command we will see you will see the connection is not working by pinging the IPaddress, Then go back to the virtual machine to get your IPaddress and login to the remote desktop connection, so you can have both machine open, than step up or allow some program that block ping client machine, then after you will notice the ping it is working. 
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/OphR9zL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From your computer you can open server manager, install Active Directory and turn server to a Domain Control. creating domain controle with domain name and password whihc we will help to login. ( after steup domain, the remote will logoff and ask to reconnect, in this time we will not need our virtual machine logins intead we will use domain login because we turn computer to the domain's one)
 </p>
 <br />
 
