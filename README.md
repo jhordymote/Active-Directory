@@ -34,8 +34,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/xzdIFEo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Create Ressource and both virtual machine which all the steps are in the first link, after creationg a Virtual Machine we will go pin our NIC (Network Interface) to the static status instead of dynamic (static status means IP will not change during lab) and this have to be done in your virtual machine and not the client. then we will get client IPaddress to remote it, make sure to remember all the set up when you were creating Ressource Groups because username and password will be need to login into Remote Desktop Connection.
 <br />
 
 <p>
